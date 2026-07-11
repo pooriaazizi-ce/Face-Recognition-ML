@@ -30,4 +30,7 @@ Using traditional computer vision techniques, a model is trained to compare the 
 - Dataset containing user's face images
 
 ## Project Output
-![Video-report](https://github.com/pooriaazizi-ce/Face-Recognition-AI/assets/99240766/23ba7424-81bb-4fa2-8b7d-38b41b174224)
+<img width="400" height="276" alt="Video-report" src="https://github.com/user-attachments/assets/b71d4c69-6f42-42f3-abc6-ade3de4ce763" />
+
+
+
